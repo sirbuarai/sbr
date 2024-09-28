@@ -6,7 +6,7 @@ macOS: ~/Library/Application Support/Kodi/addons/skin.arctic.horizon.2/1080i
 
 # Anuphan Font
 **Download here:** https://fonts.google.com/specimen/Anuphan
-Put Anuphan font in folder **"fonts"**
+Put Anuphan font in folder **"fonts"** 
 macOS: ~/Library/Application Support/Kodi/addons/skin.arctic.horizon.2/**fonts**
 Like this 
 ./Kodi/addons/skin.arctic.horizon.2/**fonts**/Anuphan/static/Anuphan-Bold.ttf
